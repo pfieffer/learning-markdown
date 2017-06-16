@@ -1,6 +1,6 @@
 No local repo was made during this. For learning purpose only
 # Learning Markdown 
->This is a quoted text. Spaces are important in **Markdown**
+>**Spaces** are important in **Markdown**
 
 **Bold Text**
 ***Italic plus bold text***
@@ -11,7 +11,7 @@ Remember the spaces
   * Sub Bullet
   
 ## Checkboxes:
-[x] Checkbox 1 
+- [x] Checkbox 1 
 - [ ] Checkbox 2 
 - [x] Checkbox 3 
 
